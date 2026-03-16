@@ -4,22 +4,23 @@ Curated fork of [msitarzewski/agency-agents](https://github.com/msitarzewski/age
 
 ## What's Here
 
-20 agents across 5 categories, selected for relevance to Salesforce platform development, Next.js/LWC frontend work, and project delivery.
+22 agents across 5 categories, selected for relevance to Salesforce platform development, Next.js/LWC frontend work, and project delivery.
 
-### Engineering (10)
+### Engineering (13)
 | Agent | Focus |
 |---|---|
 | Software Architect | System design and architectural decisions |
 | Backend Architect | Generic backend/cloud architecture (kept for upstream sync) |
-| **Salesforce Architect** | Salesforce platform architecture, governor limits, integration patterns |
 | Code Reviewer | Code review focused on correctness, security, maintainability |
 | DevOps Automator | CI/CD, deployment pipelines, infrastructure |
 | Technical Writer | Documentation, wiki pages, API references |
 | Senior Developer | Generic full-stack (kept for upstream sync) |
-| **Salesforce Developer** | Apex implementation — triggers, batch, integrations, Kardia standards |
 | Frontend Developer | Generic frontend (kept for upstream sync) |
-| **LWC & Next.js Developer** | Lightning Web Components + Next.js/React |
 | Git Workflow Master | Git branching, commits, PR management |
+| **Salesforce Developer** | Apex implementation — triggers, batch, integrations, Kardia standards |
+| **Salesforce Flow Developer** | Flow automation — record-triggered, screen flows, subflow patterns |
+| **LWC Developer** | Lightning Web Components, SLDS, Jest testing |
+| **Next.js Developer** | Next.js App Router, TypeScript, Tailwind CSS |
 
 ### Testing (4)
 | Agent | Focus |
@@ -34,7 +35,7 @@ Curated fork of [msitarzewski/agency-agents](https://github.com/msitarzewski/age
 |---|---|
 | Agents Orchestrator | Multi-agent pipeline coordination |
 | Document Generator | PDF/PPTX/DOCX generation |
-| Salesforce Architect | Platform architecture (see Engineering) |
+| **Salesforce Architect** | Platform architecture, governor limits, integration patterns |
 
 ### Project Management (1)
 | Agent | Focus |
